@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.CAMERA"/>  
    <application
         android:label="product name"
-        android:name="user"
+        android:name="tagyourtaxi_driver"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
